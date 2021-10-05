@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4Milestone1</string>
+    <string name="StartButtonLabel">Start</string>
+    <string name="StopButtonLabel">Stop</string>
+</resources>
